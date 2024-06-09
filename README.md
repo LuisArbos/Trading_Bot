@@ -20,7 +20,7 @@ This project is an automated trading bot that uses technical indicators to make 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/LuisArbos/Trading_Bot
+    git clone https://github.com/LuisArbos/Trading_Bot.git
     cd TradingBot
     ```
 
